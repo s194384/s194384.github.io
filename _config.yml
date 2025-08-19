@@ -24,8 +24,7 @@ email: s194384@dtu.com
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description. That's all for now!
-description: >-
-  I am writting something and here is a nice link [Explainer Notebook](https://github.com/ClaraML96/ClaraML96.github.io/blob/main/explainer_notebook.ipynb)
+description: I am writting something 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://s194384.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -44,6 +43,8 @@ plugins:
 #plugins:
 #  - jekyll-remote-theme
 
+footer: |
+  <a href="https://github.com/pages-themes/cayman">cayman</a> is maintained by <a href="https://github.com/pages-themes">pages-themes</a>.
 
 # Exclude from processing.
 # The following items will not be processed, by default.
