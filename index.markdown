@@ -15,7 +15,7 @@ To dive more into when people stay at this culture park the [blix-visits](https:
     <iframe src="My final project codes\city park map.html" width="600px" height="550px" style="border:none; margin-bottom: 20px;" title="Subway Ridership Heatmap: Marathon Sunday with Key Stations"></iframe>
   </div>
   <p style="margin-left:5px; margin-top: 10px; font-style: italic; color: #555;">
-    <strong>Figure 1:</strong> Heatmap illustrating subway ridership density across New York City, highlighting areas of concentrated activity.
+    <strong>Figure 1:</strong> Argyle Square city park map. Explore the map by hovering over the marks and clicking on them.
   </p>
 </div>
 
@@ -23,8 +23,8 @@ To dive more into when people stay at this culture park the [blix-visits](https:
   <div class="image-container">
     <iframe 
       src="My final project codes\city park map.html"
-      width="800" 
-      height="550"  
+      width="900" 
+      height="500"  
       style="border:none;" 
       title="Argyle Square city park map">
     </iframe>
