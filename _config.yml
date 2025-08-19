@@ -43,8 +43,6 @@ plugins:
 #plugins:
 #  - jekyll-remote-theme
 
-footer: |
-  <a href="https://github.com/pages-themes/cayman">cayman</a> is maintained by <a href="https://github.com/pages-themes">pages-themes</a>.
 
 # Exclude from processing.
 # The following items will not be processed, by default.
