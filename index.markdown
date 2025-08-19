@@ -18,6 +18,21 @@ To dive more into when people stay at this culture park the [blix-visits](https:
     <strong>Figure 1:</strong> Heatmap illustrating subway ridership density across New York City, highlighting areas of concentrated activity.
   </p>
 </div>
+
+<div style="justify-content: center;">
+  <div class="image-container">
+    <iframe 
+      src="My final project codes\city park map.html" 
+      style="border:none;" 
+      title="Argyle Square city park map">
+    </iframe>
+  </div>
+  <p style="margin-left:5px; margin-top: 10px; font-style: italic; color: #555;">
+    _Figure 1_: Argyle Square city park map. Explore the map by hovering over the marks and clicking on them.
+  </p>
+</div>
+
+
 > _Figure 1_: Argyle Square city park map. Explore the map by hovering over the marks and clicking on them. 
 
 
