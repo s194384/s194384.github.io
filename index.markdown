@@ -22,18 +22,18 @@ To dive more into when people stay at this culture park the [blix-visits](https:
 <div style="justify-content: center;">
   <div class="image-container">
     <iframe 
-      src="My final project codes\city park map.html" 
+      src="My final project codes\city park map.html"
+      width="600" 
+      height="550"  
       style="border:none;" 
       title="Argyle Square city park map">
     </iframe>
   </div>
-  <p style="margin-left:5px; margin-top: 10px; font-style: italic; color: #555;">
+  <p style="margin-left:5px; margin-top: 10px; font-style: italic; color: #616161ea;">
     _Figure 1_: Argyle Square city park map. Explore the map by hovering over the marks and clicking on them.
   </p>
 </div>
-
-
-> _Figure 1_: Argyle Square city park map. Explore the map by hovering over the marks and clicking on them. 
+ 
 
 
 
