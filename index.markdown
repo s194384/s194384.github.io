@@ -10,10 +10,10 @@ To dive more into when people stay at this culture park the [blix-visits](https:
 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
   <div class="image-container">
-    <iframe src="My final project codes\city park map.html" width="600px" height="550px" style="border:none; margin-bottom: 20px;" title="Subway Ridership Heatmap: Marathon Sunday with Key Stations"></iframe>
+    <iframe src="My final project codes\city park map.html" width="600px" height="550px" style="border:none; margin-bottom: 20px;" title="Argyle Square city park map"></iframe>
   </div>
   <p style="margin-left:5px; margin-top: 10px;">
-    Figure 1:<strong>Argyle Square city park map.</strong> <em>Explore the map by hovering over the marks and clicking on them.</em>
+    Figure 1: <strong>Argyle Square city park map.</strong> <em>Explore the map by hovering over the marks and clicking on them.</em>
   </p>
 </div>
 
@@ -35,12 +35,12 @@ To dive more into when people stay at this culture park the [blix-visits](https:
 ## Do people stay at the park or use it for passing through to work?
 Firstly, we will have a look at what time most people visit the park. For this the blix (mobile phone counter) data is used meaning the data is from 2022 till mid-2024.
 
-<div style="display: flex; justify-content: center;">
+<div style="justify-content: center;">
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="My final project codes\visits_sum_total_polar.png" style="width: 120%">
   </div>
-  <p style="margin-left:5px; margin-top: 10px; font-style: italic;">
-    <strong>Figure 2:</strong> LOVE IT!!!
+  <p style="margin-left:5px; margin-top: 10px;">
+    Figure 2: <em>LOVE IT!!!</em>
   </p>
 </div>
 
@@ -49,26 +49,3 @@ Here it is shown that at 1 o’clock pm is where the park is the busiest with pe
 The data above only counts the number of phones (wifi-devices) and not the time spend at the park. So, this could also tell us a bit about when rush-hour is since people might just be passing through the park to go to work and back. However, according to [soho](https://soho.com.au/articles/peak-traffic-hours-melbourne), [3aw](https://www.3aw.com.au/melbournes-peak-hour-now-lasts-for-six-hours-a-day/) and locals rush hour in Melbourne is around 6:30 am till 9 am and from around 3:30 pm till 6 pm.
 Let’s investigate when the park is most crowded and therefore at what time people tend to stay at the park for longest and isn’t just passing through the park to go somewhere else.
 
-
-
-#Random text for testing how it looks on the website:
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
