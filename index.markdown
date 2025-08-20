@@ -76,7 +76,7 @@ Each bench has two sensors monitoring when the bench is at use. The interactive 
     <iframe 
       src="My final project codes\Bokeh_plot_benches.html"
       width="900" 
-      height="300"  
+      height="380"  
       style="border:none;" 
       title="Argyle Square city park map">
     </iframe>
