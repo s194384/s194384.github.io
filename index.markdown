@@ -122,7 +122,7 @@ How many of the people who visit the park are using the benches? See plot below.
   </p>
   <div class="image-container">
     <iframe 
-      src="My final project codes\Bokeh plot with combined data for 2022 and 2023.html"
+      src="My final project codes\Bokeh plot with combined data for 2022.html"
       width="900" 
       height="500"  
       style="border:none;" 
