@@ -13,7 +13,7 @@ To dive more into when people stay at this culture park the [blix-visits](https:
     <iframe src="My final project codes\city park map.html" width="600px" height="550px" style="border:none; margin-bottom: 20px;" title="Argyle Square city park map"></iframe>
   </div>
   <p style="margin-left:5px; margin-top: 10px;">
-    Figure 1: <strong>Argyle Square city park map.</strong> <em>Explore the map by hovering over the marks and clicking on them.</em>
+    <small>Figure 1: <strong>Argyle Square city park map.</strong> <em>Explore the map by hovering over the marks and clicking on them.</em></small>
   </p>
 </div>
  
@@ -75,7 +75,7 @@ Each bench has two sensors monitoring when the bench is at use. The interactive 
   <div class="image-container">
     <iframe 
       src="My final project codes\Bokeh_plot_benches.html"
-      width="800" 
+      width="900" 
       height="500"  
       style="border:none;" 
       title="Argyle Square city park map">
