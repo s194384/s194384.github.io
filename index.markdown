@@ -25,7 +25,7 @@ Firstly, we will have a look at what time most people visit the park. For this t
     <img src="My final project codes\visits_sum_total_polar.png" style="width: 120%">
   </div>
   <p style="margin-left:5px; margin-top: 10px;">
-    <small>Figure 2: <em>LOVE IT!!!</em></small>
+    <small>Figure 2: <em>The numbers around the polar plot (0-23) indecates the time of day. As shown there have been most visits at 1pm and the least visits at 5am from the year 2022 till midt 2024.</em></small>
   </p>
 </div>
 
@@ -39,7 +39,7 @@ Let’s investigate when the park is most crowded and therefore at what time peo
     <img src="My final project codes\visits_sum_dwell_polar.png" style="width: 120%">
   </div>
   <p style="margin-left:5px; margin-top: 10px;">
-    <small>Figure 3: <em>LOVE IT even more!!!</em></small>
+    <small>Figure 3: <em>This polar plot shows at what time of day people tend to dwell at the park. E.g. at 12pm people have stayed in total for more than 16,000 hours from the year 2022 till midt 2024. </em></small>
   </p>
 </div>
 
@@ -52,7 +52,7 @@ To look more into if rush-hour has anything to do with when people are at the pa
     <img src="My final project codes\visits_weekdays_bar_chart.png" style="width: 120%">
   </div>
   <p style="margin-left:5px; margin-top: 10px;">
-    <small>Figure 4: <em>LOVE IT even more and more and more!!!</em></small>
+    <small>Figure 4: <em>From the year 2022 till midt 2024 people tend to visit the park more on Fridays. The smaller bar chart on the top right corner in the figure is a close-up showing the total visitors from 310,000 to 360,000.</em></small>
   </p>
 </div>
 
@@ -70,13 +70,13 @@ Each bench has two sensors monitoring when the bench is at use. The interactive 
 
 <div style="justify-content: center;">
   <p style="margin-left:5px; margin-top: 10px; font-style: italic;">
-    <small>Figure 6: <em>Argyle Square city park map. Explore the map by hovering over the marks and clicking on them.</em></small>
+    <small>Figure 6: <em>With this interactive plot one can choose which sensor to investigate on the menu to the right of the plot. Sensor 1 (s1) and sensor 2 (s2) are placed on bench 1. Sensor 3 (s3) and sensor 4 (s4) are placed on bench 2. Please notice there are a strange outburst of usage of sensor 2 and sensor 3 at 12pm and 5pm respectively.</em></small>
   </p>
   <div class="image-container">
     <iframe 
       src="My final project codes\Bokeh_plot_benches.html"
       width="900" 
-      height="400"  
+      height="410"  
       style="border:none;" 
       title="Argyle Square city park map">
     </iframe>
@@ -92,7 +92,7 @@ The use of benches is highest in the afternoon and evening. When further investi
     <img src="My final project codes\bench_sensor1_histogram.png" style="width: 120%">
   </div>
   <p style="margin-left:5px; margin-top: 10px;">
-    <small>Figure 7: <em>LOVE IT even more and more and more!!!</em></small>
+    <small>Figure 7: <em>The histogram shows the total number of dwell time and the temperatures measured by sensor 1 located on bench 1 for the whole dataset.</em></small>
   </p>
 </div>
 <div style="justify-content: center;">
@@ -100,7 +100,7 @@ The use of benches is highest in the afternoon and evening. When further investi
     <img src="My final project codes\bench_sensor4_histogram.png" style="width: 120%">
   </div>
   <p style="margin-left:5px; margin-top: 10px;">
-    <small>Figure 8: <em>LOVE IT even more and more and more!!!</em></small>
+    <small>Figure 8: <em>The histogram shows the total number of dwell time and the temperatures measured by sensor 4 located on bench 2 for the whole dataset.</em></small>
   </p>
 </div>
 
@@ -110,7 +110,7 @@ How many of the people who visit the park are using the benches. See plot below.
 
 <div style="justify-content: center;">
   <p style="margin-left:5px; margin-top: 10px; font-style: italic;">
-    <small>Figure 9: <em>This is an interactive plot. Try and hover over the datapoint to see the dates of the observation. The year can be chosen in the drop-down menu in the top left corner. Furthermore, use the zoom icon to zoom in at the data point you find interesting. By clicking the spinning circled arrows, the plot will resent to its original state. The blue dots are the blix/mobile phone counter data, and the crosses are the bench data.</em></small>
+    <small>Figure 9: <em>This is an interactive plot. Try and hover over the datapoint to see the date of the observation. The year can be chosen in the drop-down menu in the top left corner. Furthermore, use the zoom icon to zoom in at the data point you find interesting. By clicking the spinning circled arrows, the plot will resent to its original state. The blue dots are the blix/mobile phone counter data, and the crosses are the bench data. They can also be turned on and off from the menu on the plot.</em></small>
   </p>
   <div class="image-container">
     <iframe 
