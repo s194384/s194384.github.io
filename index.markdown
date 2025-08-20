@@ -61,7 +61,7 @@ Overall, there is not a big difference in the day of the week but over the cours
 ## Why are people staying at that time of day?
 Another interesting factor about when people are staying at that park is to look at the average dwell time per person (or actually per device). 
 
-**Insert plot here**
+**Insert plot here** Figure 5
 
 It is very interesting to notice that the highest average time a person stays at the park is at 4 am, and it is for 7 hours. When looking at the Argyle Square city park map the range of the mobile phone counter is 30 meters therefore the reasoning for the 7 hours at night can’t be explained by the department buildings around the park. [Tripadvisor](https://www.tripadvisor.com/Attraction_Review-g255100-d11883026-Reviews-Argyle_Square-Melbourne_Victoria.html) states there once were a mafia gang called the Carlton Crew and they had their base at the Carlton district which is where Argyle Square park is located. When looking more into the history of mafia, according to [State Library Victoria]( https://ergo.slv.vic.gov.au/explore-history/rebels-outlaws/city-criminals/gangland-war) the history of the Carlton Crew was most active 1998 to 2006 where The Gangland War took place. Even though crime in the area has decreased since then the Carlton district is still a place where crime takes place as reported by [Red Suburds](https://redsuburbs.com.au/suburbs/carlton-vic/#overview). This could explain why some individuals tend to stay at the park for a long period of time doing nighttime.
 
@@ -70,13 +70,13 @@ Each bench has two sensors monitoring when the bench is at use. The interactive 
 
 <div style="justify-content: center;">
   <p style="margin-left:5px; margin-top: 10px; font-style: italic;">
-    <small>Figure 5: <em>Argyle Square city park map. Explore the map by hovering over the marks and clicking on them.</em></small>
+    <small>Figure 6: <em>Argyle Square city park map. Explore the map by hovering over the marks and clicking on them.</em></small>
   </p>
   <div class="image-container">
     <iframe 
       src="My final project codes\Bokeh_plot_benches.html"
       width="900" 
-      height="500"  
+      height="450"  
       style="border:none;" 
       title="Argyle Square city park map">
     </iframe>
@@ -92,7 +92,7 @@ The use of benches is highest in the afternoon and evening. When further investi
     <img src="My final project codes\bench_sensor1_histogram.png" style="width: 120%">
   </div>
   <p style="margin-left:5px; margin-top: 10px;">
-    <small>Figure 6: <em>LOVE IT even more and more and more!!!</em></small>
+    <small>Figure 7: <em>LOVE IT even more and more and more!!!</em></small>
   </p>
 </div>
 <div style="justify-content: center;">
@@ -100,7 +100,7 @@ The use of benches is highest in the afternoon and evening. When further investi
     <img src="My final project codes\bench_sensor4_histogram.png" style="width: 120%">
   </div>
   <p style="margin-left:5px; margin-top: 10px;">
-    <small>Figure 7: <em>LOVE IT even more and more and more!!!</em></small>
+    <small>Figure 8: <em>LOVE IT even more and more and more!!!</em></small>
   </p>
 </div>
 
@@ -110,12 +110,12 @@ How many of the people who visit the park are using the benches. See plot below.
 
 <div style="justify-content: center;">
   <p style="margin-left:5px; margin-top: 10px; font-style: italic;">
-    <small>Figure 8: <em>This is an interactive plot. Try and hover over the datapoint to see the dates of the observation. The year can be chosen in the drop-down menu in the top left corner. Furthermore, use the zoom icon to zoom in at the data point you find interesting. By clicking the spinning circled arrows, the plot will resent to its original state. The blue dots are the blix/mobile phone counter data, and the crosses are the bench data.</em></small>
+    <small>Figure 9: <em>This is an interactive plot. Try and hover over the datapoint to see the dates of the observation. The year can be chosen in the drop-down menu in the top left corner. Furthermore, use the zoom icon to zoom in at the data point you find interesting. By clicking the spinning circled arrows, the plot will resent to its original state. The blue dots are the blix/mobile phone counter data, and the crosses are the bench data.</em></small>
   </p>
   <div class="image-container">
     <iframe 
       src="My final project codes\Bokeh plot with combined data for 2022 and 2023.html"
-      width="800" 
+      width="900" 
       height="500"  
       style="border:none;" 
       title="Argyle Square city park map">
