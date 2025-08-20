@@ -61,7 +61,14 @@ Overall, there is not a big difference in the day of the week but over the cours
 ## Why are people staying at that time of day?
 Another interesting factor about when people are staying at that park is to look at the average dwell time per person (or actually per device). 
 
-**Insert plot here** Figure 5
+<div style="justify-content: center;">
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="My final project codes\visits_avg_dwell_box.png" style="width: 120%">
+  </div>
+  <p style="margin-left:5px; margin-top: 10px;">
+    <small>Figure 5: <em> RIGHT SOMETHING HERE !!!</em></small>
+  </p>
+</div>
 
 It is very interesting to notice that the highest average time a person stays at the park is at 4 am, and it is for 7 hours. When looking at the Argyle Square city park map the range of the mobile phone counter is 30 meters therefore the reasoning for the 7 hours at night can’t be explained by the department buildings around the park. [Tripadvisor](https://www.tripadvisor.com/Attraction_Review-g255100-d11883026-Reviews-Argyle_Square-Melbourne_Victoria.html) states there once were a mafia gang called the Carlton Crew and they had their base at the Carlton district which is where Argyle Square park is located. When looking more into the history of mafia, according to [State Library Victoria]( https://ergo.slv.vic.gov.au/explore-history/rebels-outlaws/city-criminals/gangland-war) the history of the Carlton Crew was most active 1998 to 2006 where The Gangland War took place. Even though crime in the area has decreased since then the Carlton district is still a place where crime takes place as reported by [Red Suburds](https://redsuburbs.com.au/suburbs/carlton-vic/#overview). This could explain why some individuals tend to stay at the park for a long period of time doing nighttime.
 
