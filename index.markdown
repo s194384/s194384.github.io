@@ -83,7 +83,7 @@ Each bench has two sensors monitoring when the bench is at use. The interactive 
   </div>
 </div>
 
-One can tell there are no obvious favorites of which of the two benches to use. Both benches have an odd outburst. For bench 1 located closest to the Piazza Italia sensor 2 has an outburst at 12 o’clock and for the other bench it is sensor 3 which has an outburst at 5 pm. We do see from the polar plot **(figure number)** a larger dwell time at the park at 12 o’clock and more visitors at 5 pm which could explain the two outbursts. However, it could also be errors in the data.
+One can tell there are no obvious favorites of which of the two benches to use. Both benches have an odd outburst. For bench 1 located closest to the Piazza Italia sensor 2 has an outburst at 12 o’clock and for the other bench it is sensor 3 which has an outburst at 5 pm. We do see from the polar plot (figure 3) a larger dwell time at the park at 12 o’clock and more visitors at 4-5 pm which could explain the two outbursts. However, it could also be errors in the data.
 
 The use of benches is highest in the afternoon and evening. When further investigating the plot (figure 6) there is a slight favor in bench 2 from 3 pm till 8 pm. This might be due to the location of the benches. The following plots display the temperature at the bench/sensor.
 
@@ -104,7 +104,7 @@ The use of benches is highest in the afternoon and evening. When further investi
   </p>
 </div>
 
-One can differently tell that bench 2 has higher temperatures than bench 1. It is interesting to notice that for bench 1 people tend to use the bench more when the temperature is around 15-19 degrees but for bench 2 it is around 17,5-20,5 degrees. Furthermore, when only looking at the temperature it seems people like to sit more at bench 1 where the temperature is lower.
+One can differently tell that bench 2 has higher temperatures than bench 1. It is interesting to notice that for bench 1 people tend to use the bench more when the temperature is around 15-19 degrees but for bench 2 it is around 17.5-20.5 degrees. Furthermore, when only looking at the temperature it seems people like to sit more at bench 1 where the temperature is lower.
 
 How many of the people who visit the park are using the benches. See plot below.
 
@@ -123,9 +123,9 @@ How many of the people who visit the park are using the benches. See plot below.
   </div>
 </div>
 
-Firstly, it is clear to notice that most of the people who are visiting the parks aren’t using the two benches. One also very quickly notice for 2022 the two outliers Sunday the 2nd of October and Saturday the 15th of October. On the 2nd of October 2022 [Festival Indonesia]( https://www.eventfinda.com.au/2022/festival-indonesia/melbourne/carlton) has held at the park. The festival seamed to had been a success because according to figure … the following year on the 8th of October [the festival was held again]( https://busycitykids.com.au/melbourne-calendar-events/2023/10/8/festival-indonesia-at-argyle-square) and this time around 3000 more people attended according to figure … .
+Firstly, it is clear to notice that most of the people who are visiting the parks aren’t using the two benches. One also very quickly notice for 2022 the two outliers Sunday the 2nd of October and Saturday the 15th of October. On the 2nd of October 2022 [Festival Indonesia]( https://www.eventfinda.com.au/2022/festival-indonesia/melbourne/carlton) has held at the park. The festival seamed to had been a success because according to figure 9 the following year on the 8th of October [the festival was held again]( https://busycitykids.com.au/melbourne-calendar-events/2023/10/8/festival-indonesia-at-argyle-square) and this time around 3000 more people attended according to figure 9.
 On the 15th of October 2022, the other outlier in the plot, the [Fringe parade]( https://melbournefringe.com.au/wp-content/uploads/2022/07/Parade-Info-Pack-for-Participants-.pdf) has walking Lygon street which as shown on the Argyle Square city park map is located right along one of the sides of the park. Furthermore, when hovering over some of the other smaller outliers for 2022 where more people than usual visit the park one will notice that most of these dates are between the 10th and the 24th of December.  This is most likely due to the [pop-up roller skating rink](https://participate.melbourne.vic.gov.au/neighbourhoods/carlton/christmas-roller-rink) that was set up doing that time. 
 Please note there are two visible outliers in 2023 as well which I unfortunately haven’t been able to find a clear explanation for. 
 
 # In Summary
-Argyle square seems to be a popular place with almost 1 million people visiting a year. They are not just walking through the park to get to work but they also tend to stay favorably from mid-day till evening and on Fridays. There are at least two benches at the park which are mostly used from 11am till 22 pm and when the temperature is at around 15-21°C. There are big events throughout the year taking place in the park which attract many people. Lastly, a few people tend to stay the longest at the park doing the nights. 
+Argyle square seems to be a popular place with almost 1 million people visiting a year. They are not just walking through the park to get to work but they also tend to stay favorably from mid-day till evening and on Fridays. There are at least two benches at the park which are mostly used from 11 am till 22 pm and when the temperature is at around 15-21°C. There are big events throughout the year taking place in the park which attract many people. Lastly, a few people tend to stay the longest at the park doing the nights. 
