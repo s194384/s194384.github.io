@@ -25,15 +25,15 @@ Firstly, we will have a look at what time most people visit the park. For this t
     <img src="My final project codes\visits_sum_total_polar.png" style="width: 120%">
   </div>
   <p style="margin-left:5px; margin-top: 10px;">
-    <small>Figure 2: <em>The numbers around the polar plot (0-23) indicates the time of day. As shown there have been most visits at 1pm and the least visits at 5am from the year 2022 till mid-2024.</em></small>
+    <small>Figure 2: <em>The numbers around the polar plot (0-23) indicate the time of day. As shown there have been most visits at 1pm and the least visits at 5am from the year 2022 till mid-2024.</em></small>
   </p>
 </div>
 
-Here it is shown that at 1 pm is where the park is the busiest with people with mobile phones. At 5 o’clock in the evening is also fairly busy and overall, the busiest time of day in this small park is from 8 am till 8 pm. It is very clear to notice that there are not a lot of people at the park at night and especially from 3 am till 5 am. This seems very reasonable when considering people are normally sleeping at night and not at parks. 
+Here it is shown that at 1 pm the park is the busiest with people with mobile phones. 5 o’clock in the evening is also fairly busy, and overall, the busiest time of day in this small park is from 8 am till 8 pm. It is very clear to notice that there are not a lot of people at the park at night and especially from 3 am till 5 am. This seems very reasonable when considering people are normally sleeping at night and not at parks. 
 
-The figure 2 only displays the count the number of phones (wifi-devices) and not the time spent at the park. So, this could also tell us a bit about when rush-hour is since people might just be passing through the park to go to work and back. However, according to [soho](https://soho.com.au/articles/peak-traffic-hours-melbourne), [3aw](https://www.3aw.com.au/melbournes-peak-hour-now-lasts-for-six-hours-a-day/) and locals rush hour in Melbourne is around 6:30 am till 9 am and from around 3:30 pm till 6 pm, and figure 2 doesn't show any unusual peaks in these intervals.
+Figure 2 only displays the count of the number of phones (wifi-devices) and not the time spent at the park. So, this could also tell us a bit about when rush-hour is since people might just be passing through the park to go to work and back. However, according to [soho](https://soho.com.au/articles/peak-traffic-hours-melbourne), [3aw](https://www.3aw.com.au/melbournes-peak-hour-now-lasts-for-six-hours-a-day/), and locals, rush hour in Melbourne is around 6:30 am till 9 am and from around 3:30 pm till 6 pm, and figure 2 doesn't show any unusual peaks in these intervals.
 
-Let’s investigate when the park is most crowded and therefore at what time people tend to stay at the park for longest and isn’t just passing through the park to go somewhere else.
+Let’s investigate when the park is most crowded and therefore at what time people tend to stay at the park for the longest time and aren’t just passing through the park to go somewhere else.
 
 <div style="justify-content: center;">
   <div style="display: flex; justify-content: center; align-items: center;">
@@ -71,14 +71,14 @@ Another interesting factor about when people are staying at that park is to look
   </p>
 </div>
 
-It is very interesting to notice that the highest average time a person stays at the park is at 4 am. [Tripadvisor](https://www.tripadvisor.com/Attraction_Review-g255100-d11883026-Reviews-Argyle_Square-Melbourne_Victoria.html) states there once were a mafia gang called the Carlton Crew and they had their base at the Carlton district which is where Argyle Square park is located. When looking more into the history of the mafia in the area, according to [State Library Victoria](https://ergo.slv.vic.gov.au/explore-history/rebels-outlaws/city-criminals/gangland-war) the history of the Carlton Crew was most active 1998 to 2006 where The Gangland War took place. Even though crime in the area has decreased since then the Carlton district is still a place where crime takes place as reported by [Red Suburds](https://redsuburbs.com.au/suburbs/carlton-vic/#overview). This could explain why some individuals tend to stay at the park for a long period of time doing nighttime.
+It is very interesting to notice that the highest average time a person stays at the park is at 4 am. [Tripadvisor](https://www.tripadvisor.com/Attraction_Review-g255100-d11883026-Reviews-Argyle_Square-Melbourne_Victoria.html) states there once were a mafia gang called the Carlton Crew and they had their base at the Carlton district which is where Argyle Square park is located. When looking more into the history of the mafia in the area, according to [State Library Victoria](https://ergo.slv.vic.gov.au/explore-history/rebels-outlaws/city-criminals/gangland-war) the history of the Carlton Crew was most active 1998 to 2006 where The Gangland War took place. Even though crime in the area has decreased since then the Carlton district is still a place where crime takes place as reported by [Red Suburbs](https://redsuburbs.com.au/suburbs/carlton-vic/#overview). This could explain why some individuals tend to stay at the park for a long period of time doing nighttime.
 
 ## The use of the benches at the park
-Each bench has two sensors monitoring when the bench is at use. The interactive plot below shows at what time of day people are sitting at the bench for the longest. 
+Each bench has two sensors monitoring when the bench is in use. The interactive plot below shows at what time of day people are sitting at the bench for the longest time. 
 
 <div style="justify-content: center;">
   <p style="margin-left:5px; margin-top: 10px; font-style: italic;">
-    <small>Figure 6: <em>With this interactive plot one can choose which sensor to investigate with from the menu to the right of the plot. Sensor 1 (s1) and sensor 2 (s2) are placed on bench 1. Sensor 3 (s3) and sensor 4 (s4) are placed on bench 2. Please notice there are a strange outburst of usage of sensor 2 and sensor 3 at 12 pm and 5 pm respectively.</em></small>
+    <small>Figure 6: <em>With this interactive plot one can choose which sensor to investigate with from the menu to the right of the plot. Sensor 1 (s1) and sensor 2 (s2) are placed on bench 1. Sensor 3 (s3) and sensor 4 (s4) are placed on bench 2. Please notice there are two strange outbursts of usage of sensor 2 and sensor 3 at 12 pm and 5 pm respectively.</em></small>
   </p>
   <div class="image-container">
     <iframe 
@@ -91,9 +91,9 @@ Each bench has two sensors monitoring when the bench is at use. The interactive 
   </div>
 </div>
 
-One can tell there are no obvious favorites of which of the two benches to use. Both benches have an odd outburst. For bench 1 located closest to the Piazza Italia sensor 2 has an outburst at 12 o’clock and for the other bench it is sensor 3 which has an outburst at 5 pm. We do see from the polar plot (figure 3) a larger dwell time at the park at 12 o’clock and more visitors at 4-5 pm which could explain the two outbursts. However, it could also be errors in the data.
+One can tell there are no obvious favorites of which of the two benches to use. Both benches have an odd outburst. For bench 1 located closest to the Piazza Italia, sensor 2 has an outburst at 12 o’clock and for the other bench it is sensor 3 which has an outburst at 5 pm. We do see from the polar plot (figure 3) a larger dwell time at the park at 12 o’clock and more visitors at 4-5 pm which could explain the two outbursts. However, it could also be errors in the data.
 
-The use of benches is highest in the afternoon and evening. When further investigating the plot (figure 6) there is a slight favor in bench 2 from 3 pm till 8 pm. This might be due to the location of the benches, and/or if the bench is placed at a cooler place with more shadow doing the day. The following plots display the temperature at the bench/sensor.
+The use of benches is highest in the afternoon and evening. When further investigating the plot (figure 6) there is a slight preference for bench 2 from 3 pm till 8 pm. This might be due to the location of the benches, and/or if the bench is placed at a cooler place with more shadow during the day. The following plots display the temperature at the bench/sensor.
 
 <div style="justify-content: center;">
   <div style="display: flex; justify-content: center; align-items: center;">
@@ -112,7 +112,7 @@ The use of benches is highest in the afternoon and evening. When further investi
   </p>
 </div>
 
-One can differently tell that bench 2 has higher temperatures than bench 1. It is interesting to notice that for bench 1 people tend to use the bench more when the temperature is around 15-19 °C but for bench 2 it is around 17.5-20.5 °C. Furthermore, when only looking at the temperature it seems people like to sit more at bench 1 where the temperature is lower.
+One can definitely tell that bench 2 has higher temperatures than bench 1. It is interesting to notice that for bench 1 people tend to use the bench more when the temperature is around 15-19 °C but for bench 2 it is around 17.5-20.5 °C. Furthermore, when only looking at the temperature it seems people like to sit more at bench 1 where the temperature is lower.
 
 How many of the people who visit the park are using the benches? See plot below.
 
@@ -135,4 +135,4 @@ Firstly, it is clear to notice that most of the people who are visiting the park
 Please note there are two visible outliers in 2023 as well which I unfortunately haven’t been able to find a clear explanation for. 
 
 # In Summary
-Argyle square seems to be a popular place with almost 1 million people visiting a year. They are not just walking through the park to get to work but they also tend to stay favorably from mid-day till evening and on Fridays. There are at least two benches at the park which are mostly used from 11 am till 22 pm and when the temperature is at around 15-21°C. There are big events throughout the year taking place in the park which attract many people. Lastly, a few people tend to stay the longest at the park doing the nights. 
+Argyle square seems to be a popular place with almost 1 million people visiting a year. They are not just walking through the park to get to work but they also tend to stay favorably from mid-day till evening and on Fridays. There are at least two benches at the park which are mostly used from 11 am till 22 pm and when the temperature is at around 15-21°C. There are big events throughout the year taking place in the park which attract many people. Lastly, a few people tend to stay the longest at the park during the nights. 
