@@ -86,7 +86,7 @@ Each bench has two sensors monitoring when the bench is in use. The interactive 
       width="900" 
       height="410"  
       style="border:none;" 
-      title="Argyle Square city park map">
+      title="Bokeh plot benches">
     </iframe>
   </div>
 </div>
@@ -126,7 +126,7 @@ How many of the people who visit the park are using the benches? See plot below.
       width="900" 
       height="500"  
       style="border:none;" 
-      title="Argyle Square city park map">
+      title="Bokeh plot combined">
     </iframe>
   </div>
 </div>
